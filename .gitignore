@@ -1,0 +1,23 @@
+# JAVA
+*.class
+*.jar
+*.war
+hs_err_pid*
+
+# MAVEN
+target/
+pom.xml.versionsBackup
+
+# IDEA
+.idea/
+*.iml
+
+# MAC
+.DS_Store
+
+# MISC
+*.log
+*.zip
+*.rar
+*.tar
+*.gz
